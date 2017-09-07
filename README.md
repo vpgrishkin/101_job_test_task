@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 Запустить
 ``` #!bash
-python fetch_page_no_style.py
+python fetch_page_no_style.py https://yourlink.com
 ```
 
 # Run unit-tests
