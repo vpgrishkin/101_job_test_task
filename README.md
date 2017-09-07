@@ -31,3 +31,9 @@ pip install -r requirements.txt
 ``` #!bash
 python fetch_page_no_style.py
 ```
+
+# Run unit-tests
+``` #!bash
+python tests.py
+
+```
